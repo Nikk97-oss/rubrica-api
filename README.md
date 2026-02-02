@@ -124,8 +124,20 @@ Testato tramite API simulator di IntelliJ
 
 Struttura Service / Repository / Controller rispettata
 
+---AGGIORNAMENTO ESEGUITO---
+
+## Error Handling
+
+L'applicazione gestisce errori di validazione e risorse non trovate restituendo
+risposte HTTP coerenti (400, 404) con messaggi strutturati.
+
+## Testing
+
+Gli endpoint sono stati testati manualmente tramite IntelliJ HTTP Client.
+
 ### Autore
 Nicola Cirelli
 
 Progetto didattico sviluppato per studio di Spring Boot e REST API.
+
 
